@@ -1,0 +1,10 @@
+{
+  "name": "contact-manager-server",
+  "type": "module",
+  "scripts": { "dev": "node --watch index.js" },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "bcryptjs": "^3.0.2"
+  }
+}
